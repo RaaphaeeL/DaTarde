@@ -1,0 +1,44 @@
+body {
+    background-image:linear-gradient(to bottom, #3198E2,
+    #ffbef1);
+    text-align: center;
+    color:black;
+    font: arial;
+    font-size: 17pt;
+}
+
+.varios{
+
+    height: 400px;
+    width: 900px;
+    border-radius: 45%;
+}
+
+h2 {
+    font-size: 100px;
+    height: 40pt;
+    color: black;
+    text-shadow: 3px 3px 10px #ffbef1;
+    font-family: Brush Script MT;
+    text-align: center;
+}
+
+button {
+    font-size: 20pt;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:linear-gradient(90deg, #3198E2, #ffbef1);
+    border-bottom: black;
+    box-shadow: inset 0px 0px 4px black;
+    }
+
+.formigueiro{
+
+    border-radius: 50%;
+
+}
+
+.bolo{
+
+    border-radius: 10%;
+}
